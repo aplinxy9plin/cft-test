@@ -41,14 +41,14 @@ https://github.com/aplinxy9plin/cft-test/releases/tag/1.0
 ```sh
 cd mobile
 npm install # yarn
-npm start # yanr start
+npm start # yarn start
 ```
 
 ## Запуск бэкенда
 ```sh
 cd backend
 npm install # yarn
-npm start # yanr start
+npm start # yarn start
 ```
 
 ### Запросы на бэкенде
