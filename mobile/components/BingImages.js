@@ -21,7 +21,7 @@ export default class BingImages extends Component {
       	"method": "GET",
       	"headers": {
       		"x-rapidapi-host": "bing-image-search1.p.rapidapi.com",
-      		"x-rapidapi-key": "67155ad6b6mshe5afe8503f47573p11b7e8jsnb9b4b1cc0941"
+      		"x-rapidapi-key": "{rapidApiKey}"
       	}
       })
       .then(response => response.json())
